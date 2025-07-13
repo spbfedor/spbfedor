@@ -52,10 +52,10 @@
 ###
 <h3 align="left">📕 Некоторые из моих проектов на Python:</h3>
 
-- [Телеграм-бот для получения какой либо информации со сторонних ресурсов](https://github.com/spbfedor/telegram_bot)
 - [API платформы для блогинга](https://github.com/spbfedor/api_final_yatube)
 - [Платформа для блогинга](https://github.com/spbfedor/yatube_final)
 - [Тестирование проекта на Django](https://github.com/spbfedor/yatube_tests)
+- [Телеграм-бот для получения какой либо информации со сторонних ресурсов](https://github.com/spbfedor/telegram_bot)
 - [Программный модуль фитнес-трекера](https://github.com/spbfedor/hw_python_oop)
 
 ###
