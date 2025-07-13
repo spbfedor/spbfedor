@@ -22,8 +22,8 @@
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus&logoColor=blue)
 
 ### Навыки Python и C++:
-![Django](https://img.shields.io/badge/-Django-blueviolet?style=for-the-badge&logo=Djangoe&logoColor=White)
-![DRF](https://img.shields.io/badge/-DRF-blueviolet?style=for-the-badge&logo=DRF&logoColor=White)
+![Django](https://img.shields.io/badge/-django-blueviolet?style=for-the-badge&logo=django&logoColor=White)
+![DRF](https://img.shields.io/badge/-drf-blueviolet?style=for-the-badge&logo=drf&logoColor=White)
 ![API](https://img.shields.io/badge/-api-blueviolet?style=for-the-badge&logo=api&logoColor=White)
 ![Async/await](https://img.shields.io/badge/-Async/await-blueviolet?style=for-the-badge&logo=Async/await&logoColor=White)
 ![Aiogram](https://img.shields.io/badge/-aiogram-blueviolet?style=for-the-badge&logo=aiogram&logoColor=White)
