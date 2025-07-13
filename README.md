@@ -27,6 +27,9 @@
 ![API](https://img.shields.io/badge/-api-blueviolet?style=for-the-badge&logo=api&logoColor=White)
 ![Async/await](https://img.shields.io/badge/-Async/await-blueviolet?style=for-the-badge&logo=Async/await&logoColor=White)
 ![Aiogram](https://img.shields.io/badge/-aiogram-blueviolet?style=for-the-badge&logo=aiogram&logoColor=White)
+![FastAPI](https://img.shields.io/badge/-fastapi-blueviolet?style=for-the-badge&logo=fastapi&logoColor=White)
+![SQLAlchemy](https://img.shields.io/badge/-sqlalchemy-blueviolet?style=for-the-badge&logo=sqlalchemy&logoColor=White)
+![Pydantic](https://img.shields.io/badge/-pydantic-blueviolet?style=for-the-badge&logo=pydantic&logoColor=White)
 <br>
 ![Git](https://img.shields.io/badge/-Git-blueviolet?style=for-the-badge&logo=Git&logoColor=White)
 ![Poetry](https://img.shields.io/badge/-Poetry-blueviolet?style=for-the-badge&logo=Poetry&logoColor=White)
