@@ -52,7 +52,7 @@
 ###
 <h3 align="left">📕 Некоторые из моих проектов на Python:</h3>
 
-- [Система управления доступом RBAC]([https://github.com/spbfedor/api_final_yatube](https://github.com/spbfedor/auth_drf_project.git))
+- [Система управления доступом RBAC](https://github.com/spbfedor/auth_drf_project.git)
 - [API платформы для блогинга](https://github.com/spbfedor/api_final_yatube)
 - [Платформа для блогинга](https://github.com/spbfedor/yatube_final)
 - [Тестирование проекта на Django](https://github.com/spbfedor/yatube_tests)
