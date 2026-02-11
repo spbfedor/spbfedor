@@ -52,7 +52,7 @@
 ###
 <h3 align="left">📕 Некоторые из моих проектов на Python:</h3>
 
-- [Сетевой сканер](https://github.com/spbfedor/NetworkSecurityAuditScanner.git)
+- [Асинхронный сетевой сканер](https://github.com/spbfedor/NetworkSecurityAuditScanner.git)
 - [Система управления доступом RBAC](https://github.com/spbfedor/auth_drf_project.git)
 - [API платформы для блогинга](https://github.com/spbfedor/api_final_yatube)
 - [Платформа для блогинга](https://github.com/spbfedor/yatube_final)
